@@ -11,4 +11,5 @@ def index(request):
             Outputs html response.
 
         """
-    return HttpResponse("Hey Dude - you did it, greatings from Symphony Crew!")
+    return HttpResponse("Hey Dude - you did it - you managed to run demo2 branch!! "
+                        " Once again, greatings from Symphony Crew!")
